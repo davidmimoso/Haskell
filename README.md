@@ -7,7 +7,7 @@ Este repositório contém as minhas resoluções das fichas de trabalho e exerc�
 * Manipulação de listas, árvores binárias e tipos de dados algébricos.
 * Resoluções passo-a-passo de problemas de algoritmia utilizando o paradigma funcional.
 
-### 🛠️ Tech Stack
+### 🛠️ Ferramentas
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 ---
